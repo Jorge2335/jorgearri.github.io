@@ -1,0 +1,77 @@
+<html>
+<head>
+<title> Biografia Jorge Luis Borges </title>
+</head>
+<body bgcolor="#FFFFFF" text="black">
+<center><img src="jorge.jpeg "width="620" height="280"></center>
+<center><h3><p>Jorge Francisco Isidoro Luis Borges Acevedo Buenos Aires, Argentina 1899 – Ginebra, Suiza, 1986.</center><h3></p>
+<center><p><h1>Biografía</h1></p></center>
+
+<center><h3><p>Jorge Francisco Isidoro Luis Borges Acevedo nació el 24 de agosto de 1899, en Buenos Aires, Argentina. Hijo de Jorge Guillermo Borges, un abogado y profesor de psicología con aspiraciones literarias y de Leonor Acevedo Suárez, uruguaya, traductora. En su casa se hablaba en español e inglés, así que desde su niñez Borges fue bilingüe.
+A los cuatro años aprendió a leer inglés antes que el español. En 1914 su padre se jubiló por problemas de visión, y la familia se trasladó a Europa. Para refugiarse de la Primera Guerra Mundial se establecieron en Ginebra, donde el joven Borges estudió francés y cursó el bachillerato en el Lycée Jean Calvin (Francia). Tras la Primera Guerra
+Mundial la familia Borges pasó tres años en Lugano, Barcelona, Mallorca, Sevilla y Madrid y participó del movimiento literario ultraísta que luego encabezaría en Argentina. Colaboró en esta época en las revistas Ultra, Grecia, Cervantes, Hélices y Cosmópolis.
+El 4 de marzo de 1921, a la edad de 20 años se embarcó junto a su familia al puerto de Barcelona en el Reina Victoria Eugenia rumbo a Buenos Aires. En Buenos Aires publicó en la revista Cosmópolis, fundó la revista mural Prisma (de la que sólo se publicaron dos números) y también publicó en Nosotros, dirigida por Alfredo Bianchi. 
+En 1923 Borges publicó su primer libro de poesía, Fervor de Buenos Aires.</p>
+
+<center><img src="joven.jpg" "width="420" height="380"></center>
+
+<p>Instalado definitivamente en su ciudad natal a partir de 1924 publicó Luna de enfrente e Inquisiciones. Cansado del ultraísmo, intentó fundar un nuevo tipo de regionalismo, enraizado en una perspectiva metafísica de la realidad.En 1929 con Cuaderno San Martín ganó el segundo Premio Municipal de Poesía de Buenos Aires.
+En 1935 su célebre Historia universal de la infamia. Colaboró con la revista quincenal El Hogar, comienza donde publicó en la columna de crítica Libros y autores extranjeros, hasta 1939.</p>
+
+<p>En 1938 consiguió un empleo en la biblioteca municipal Miguel Cané del barrio de Almagro. Ese año Borges sufrió un grave accidente, al golpearse la cabeza con una ventana, lo que lo llevó al borde de la muerte por septicemia, esta experiencia fue el germen del cuento El sur, en la convalecencia escribió Pierre Menard, autor del Quijote.
+En 1940 se publicó su Antología de literatura fantástica, escrita en colaboración con Bioy Casares y Silvina Ocampo, quienes ese mismo año contrajeron matrimonio, y Borges fue el testigo de boda. En 1944 conoció a Estela Canto, de quien se enamoró sin ser correspondido.
+Tras varios accidentes y algunas operaciones, un oftalmólogo le prohibió leer y escribir, aunque en un principio todavía distinguía luces y sombras, pero en 1955 se quedó ciego por la enfermedad congénita que había dejado también sin visión a su padre.
+En 1956 fue nombrado catedrático en la Universidad de Buenos Aires y recibió un doctorado honoris causa de la Universidad de Cuyo.</p>
+
+<center><img src="ciego.jpeg" "width="400" height="300"></center>
+
+<p>Publicó en esa época el Manuel de zoología fantástica y reapareció, bajo su dirección, la segunda época de revista La Biblioteca.
+Asistió en Berlín a un congreso internacional de escritores, al año siguiente, y en la Unesco participó en un homenaje a Shakespeare. Visitó Inglaterra, Suecia y Dinamarca, y en el 67 obtuvo la cátedra de Literatura Inglesa en la Universidad Católica Stella Maris de Mar del Plata.
+El 21 de septiembre de 1967 Borges se casó con Elsa Astete Millán, el matrimonio duró tres años. Viajó a Estados Unidos con su mujer como profesor de poesía de la Universidad estadunidense de Harvard, invitado por la Fundación Charles Eliot Norton. En 1968 fue nombrado miembro de la Academia de Artes y Ciencias de los Estados Unidos.
+Fue nombrado miembro de la The Hispanic Society of America, en Nueva York.
+En 1971 fue nombrado doctor honoris causa por la Universidad de Columbia, Nueva York. En 1975 falleció su madre a los noventa y nueve años.</p>
+
+<center><img src="academia.jpg" "width="440" height="320"></center>
+ 
+<p>María Kodama se conviertió en secretaria y acompañante de sus viajes, se casaron finalmente el 26 de Abril de 1986.
+En 1976, bajo la dictadura de Videla, publicó La moneda de hierro. Participó, junto con otros intelectuales, de una entrevista con el general Videla reclamando por los arrestos clandestinos. En 1977 recibió el título de doctor honoris causa por la Universidad de La Sorbona.
+1979 fue un año de homenajes: la Academia Francesa lo distinguió con una medalla de oro. Recibió la Orden al Mérito de la República Federal Alemana y la Cruz Islandesa del Halcón en el grado de Comendador con estrella.</p>
+
+<center><img src="imagen.jpg" "width="440" height="320"></center>
+
+<p>Se le hizo un homenaje nacional en el Teatro Cervantes, con motivo de cumplir los ochenta años. Viajó con María Kodama a Japón.
+En 1983 visitó España por última vez para recibir la Gran Cruz de Alfonso X el Sabio y participó en los cursos de la Universidad Internacional Menéndez Pelayo. En París, el presidente Miterrand le hizo entrega de la Legión de Honor.
+Fueron los últimos años de viajes ya que a finales de enero de 1986 fue internado en el Hospital Cantonal de Ginebra. El 14 de junio murió en Ginebra. Fue enterrado el cementerio de Plainpalais.
+</p></h3></center>
+
+<p><center><h1>Obras más importantes</h1></p></center>
+<center><p><h3>Jorge Luis Borges fue un pionero en el campo de la literatura latinoamericana. Está considerado como una de las figuras clave del género fantástico ya que varios de los libros más vendidos del autor pertenecieron a este género. Borges creó un nuevo estilo de literatura y se ocupó de una gran variedad de temas: historia, tiempo, laberintos, sueños, sagas épicas, todo de una manera siempre nueva y sorprendente.
+Sus tres obras más importantes son:</h3></center></p> 
+
+<center><img src=ficciones.jpg "width="340" height="400"></center>
+
+<center><p><h3>Ficciones – Jorge Luis Borges</br>                                                                                
+En 1944 Ficciones vio la luz por primera vez, convirtiéndose en uno de sus libros de cuentos más famosos. 
+La obra está compuesta por dos partes: “Artificios” y “El jardín de los senderos que se bifurcan”. En él, se incluyen cuentos clásicos de la literatura argentina y universal, tales como: “Las ruinas circulares” y “El Sur”.</h3></center></p> 
+
+<center><img src=arenoso.jpg "width="340" height="400"></center>
+
+<center><p><h3>El libro de arena – Jorge Luis Borges</br>                                                                                
+Esta colección publicada en 1975 se compone de algunos de los escritos populares del autor, todos tejidos a la perfección. Es una obra muy bien escrita y articulada. 
+El estilo de escritura de Jorge Luis Borges y la forma en que crea un mundo mágico por sí mismo es una razón suficiente para elegir este clásico.</h3></center></p> 
+
+<center><img src=aleph.jpg "width="340" height="400"></center>
+
+
+<center><p><h3>El Aleph – Jorge Luis Borges</br>                                                                                
+Por último, pero no menos importante, está El Aleph. Este es considerado el libro más leído de Jorge Luis Borges.</h3></center></p> 
+
+<p><center><h1>Su impacto cultural</h1></p></center>
+<center><h3><p> Borges ha dejado su gran legado en todos los campos de la cultura moderna, incluso la cultura pop, y muchos escritores se han inspirado en sus obras. Entre ellos se encuentran escritores como Julio Cortázar, Italo Calvino, Osvaldo Soriano, Umberto Eco, Leonardo Sciascia, John Barth, Philip K. Dick, Gene Wolfe, Paul Auster, Roberto Bolaño, Zoran Živković y Carmelo Bene. Además, Borges también ha influido en escritores de cómics como Alan Moore y Grant Morrison (quien mencionó indirectamente en un episodio de la Doom Patrol), el cantautor italiano Francesco Guccini, Roberto Vecchioni (el secreto milagroso, basado en el cuento homónimo de Borges), Giorgio Gaber (si yo fuera Dios, con referencia a la » superstición de la democracia «) , y Elvis Costello, y artistas como Luigi Serafini, autor del Codex Seraphinianus. Él, como afirma el propio filósofo francés en el primer prefacio del texto, también inspiró palabras y cosas, una de las mayores obras maestras de Michel Foucault. Umberto Eco, en la novela el nombre de la Rosa da el nombre de Jorge Da Burgos a uno de los personajes, bibliotecario ciego, luego aclarando (en el » postille «) que el nombre debe referirse explícitamente a Borges.</p></h3></center>
+
+<center><img src="legado.jpeg" "width="480" height="380"></center>
+
+
+
+</body>
+</html>
